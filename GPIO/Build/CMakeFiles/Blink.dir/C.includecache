@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pi/embedS/les1/Examples/Blink/Source/main.c
+PJ_RPI.h
+/home/pi/embedS/les1/Examples/Blink/Source/PJ_RPI.h
+stdio.h
+-
+
